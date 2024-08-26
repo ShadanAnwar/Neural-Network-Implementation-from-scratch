@@ -63,10 +63,6 @@ The \`main.py\` script is the entry point for training the neural network on the
 
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request. Whether it's improving the code, fixing bugs, or adding new features, your contributions are highly valued.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - **MNIST Dataset**: Thanks to Yann LeCun and the team for providing the MNIST dataset.
@@ -74,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or issues, feel free to reach out via LinkedIn or open an issue in the repository.
+For any inquiries or issues, please contact me via LinkedIn or by email at shadan.anwar2005@gmail.com. Alternatively, you can open an issue in the repository.
